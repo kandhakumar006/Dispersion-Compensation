@@ -70,7 +70,12 @@ The main physical components of this layout are:
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
+<img width="971" height="728" alt="Screenshot 2026-04-29 094842" src="https://github.com/user-attachments/assets/4ae0e354-6de9-48c4-9ebd-063971f70460" />
+<img width="975" height="729" alt="Screenshot 2026-04-29 094848" src="https://github.com/user-attachments/assets/514108f6-355e-48c8-a78d-297b6a8c83f9" />
+<img width="977" height="735" alt="Screenshot 2026-04-29 094903" src="https://github.com/user-attachments/assets/6ebf67c4-a4a5-4687-9033-8ed88a0411e2" />
+
+<img width="1599" height="855" alt="WhatsApp Image 2026-05-12 at 14 30 17" src="https://github.com/user-attachments/assets/7ca40848-c765-4cfb-8f48-c9e92030c142" />
 
 ---
 
